@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://victorli5611.github.io/sitemap.xml
+Sitemap: https://victorli.info/sitemap.xml
